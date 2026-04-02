@@ -7,6 +7,7 @@ function VideoOverview({ title, url }) {
         autoPlay
         loop
         muted
+        loading="lazy"
         className="w-full aspect-video object-cover"
         />
 

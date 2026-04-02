@@ -7,6 +7,7 @@ function TwoVideos({ url1, url2 }) {
         autoPlay
         loop
         muted
+        loading="lazy"
         className="w-full md:w-1/2 aspect-video object-cover"
         />
 
@@ -15,6 +16,7 @@ function TwoVideos({ url1, url2 }) {
         autoPlay
         loop
         muted
+        loading="lazy"
         className="w-full md:w-1/2 aspect-video object-cover"
         />
     </div>
