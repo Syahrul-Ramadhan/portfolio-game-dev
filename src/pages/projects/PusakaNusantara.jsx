@@ -37,7 +37,7 @@ function PusakaNusantara() {
 
         {/* Two Videos */}
         <div className="mt-6">
-          <TwoVideos url1="/videos/pusaka-nusantara/pusaka-nusantara-saron-minigames.mp4" url2="/videos/pusaka-nusantara/pusaka-nusantara-rhytm-minigames.mp4" />
+          <TwoVideos url1="/videos/pusaka-nusantara/pusaka-nusantara-saron-minigame.mp4" url2="/videos/pusaka-nusantara/pusaka-nusantara-rhythm-minigame.mp4" />
         </div>
 
         {/* What I Learned */}

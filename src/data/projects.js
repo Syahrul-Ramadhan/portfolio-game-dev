@@ -27,7 +27,7 @@ export const projects = [
     role: "Game Programmer & Game Designer",
     description:
       "Aksara is a roguelite deck-building game where players construct meaningful words using syllable-based cards. Inspired by Balatro, it introduces a unique linguistic twist to traditional card mechanics.",
-    video: "/videos/aksara/AksaraOverview.mp4",
+    video: "/videos/aksara/aksara-overview.mp4",
     team: "3",
     duration: "1 week",
     engine: "Unity",

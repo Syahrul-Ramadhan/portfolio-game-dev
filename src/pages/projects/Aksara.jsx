@@ -11,7 +11,7 @@ function Aksara() {
       <Navbar />
       <div className="project-container mx-auto px-10 md:px-30 pt-30 md:pt-20">
         <BackButton />
-        <VideoOverview title="Aksara" url="/videos/aksara/AksaraOverview.mp4" />
+        <VideoOverview title="Aksara" url="/videos/aksara/aksara-overview.mp4" />
         <About
           about="Aksara is a roguelite deck-building game where players construct meaningful words using syllable-based cards. Inspired by Balatro, it introduces a unique linguistic twist to traditional card mechanics."
           role="Game Programmer & Game Designer"
